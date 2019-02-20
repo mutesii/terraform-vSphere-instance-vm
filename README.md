@@ -11,8 +11,6 @@ This build can be helpful with:
 - be a part of some tests, based on VMs
 - many other cases.
 
-You can find more details on my page, where I described [how to deploy vSphere VM with Terraform](https://emilwypych.com/2017/02/26/deploying-vsphere-vm-with-terraform/).
-
 WARNING! Works only with Linux VMs!
 
 Requirements
@@ -48,13 +46,3 @@ vmrp
 vmdatastore
 vmtemp
 ```
-
-License
-----------
-
-[MIT](https://tldrlegal.com/license/mit-license)
-
-Author
--------
-
-[Emil Wypych](https://emilwypych.com)
